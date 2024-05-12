@@ -1,2 +1,2 @@
 console.log("Hello World!");
-console.log("Maks to permit is filess")
+console.log("Maks is create file")
